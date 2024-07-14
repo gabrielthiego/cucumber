@@ -9,9 +9,7 @@ Contexto:
 Dado que eu esteja na configuração do produto
 
 Cenário: Selecionar cor, tamanho e quantidade do produto
-Quando eu selecionar a cor
-E  selecionar o tamanho
-E  selecionar a quantidade
+Quando eu selecionar a cor, tamanho e quantidade
 Então o produto deve ser configurado de acordo com as seleções
 
 Cenário: Limitar quantidade de produtos por venda
